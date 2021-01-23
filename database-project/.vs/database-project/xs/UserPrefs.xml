@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{27DB1078-62D8-4B21-865D-3C1ABAF5559F}|">
   <MonoDevelop.Ide.ItemProperties.database-project PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="packages.config">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Web.config">
     <Files>
-      <File FileName="Web.config" Line="22" Column="12" />
+      <File FileName="Web.config" Line="15" Column="111" />
       <File FileName="packages.config" Line="12" Column="11" />
     </Files>
     <Pads>
@@ -10,8 +10,7 @@
         <State name="__root__">
           <Node name="database-project" expanded="True">
             <Node name="database-project" expanded="True">
-              <Node name="Packages" expanded="True" />
-              <Node name="packages.config" selected="True" />
+              <Node name="Web.config" selected="True" />
             </Node>
           </Node>
         </State>
